@@ -50,13 +50,9 @@
 		</dict>
 		<dict>
 			<key>filename</key>
-			<string>example_user.rb</string>
-		</dict>
-		<dict>
-			<key>filename</key>
 			<string>Gemfile</string>
 			<key>lastUsed</key>
-			<date>2011-03-25T18:21:21Z</date>
+			<date>2011-10-03T19:53:50Z</date>
 			<key>selected</key>
 			<true/>
 		</dict>
